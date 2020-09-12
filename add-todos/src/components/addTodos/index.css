@@ -1,0 +1,10 @@
+.section-add-todos {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.section-add-todo,.section-todos-label,.section-todos {
+    padding: 5px;
+}
